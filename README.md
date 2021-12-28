@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 # Django Blog Application
 
 This is a basic blog application developed with Django. Used in development and not production ready. 
